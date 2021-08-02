@@ -1,0 +1,22 @@
+{
+  "name": "fahrtenbuch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Monkmitrad/fahrtenbuch.git"
+  },
+  "author": "monkmitrad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Monkmitrad/fahrtenbuch/issues"
+  },
+  "homepage": "https://github.com/Monkmitrad/fahrtenbuch#readme",
+  "dependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
